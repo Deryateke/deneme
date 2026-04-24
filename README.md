@@ -1,1 +1,1 @@
-Github da yapilan bir degisikligi locale nasil cekerim ?
+Github da yapilan bir degisikligi locale nasil cekerim?
